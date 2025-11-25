@@ -4,7 +4,7 @@ PrimeFit Couture is an 8-page fashion brand website built by Team XYZ as part of
 our Web Development coursework at Miva University.
 
 ## 🔥 Website Features
-- 8 complete pages (Home, About, Gallery, Collections, Contact, Profile, Events, Appointments)
+- 8 complete pages (Home, About, Gallery, Collections, Contact, Profile, Events, FAQs)
 - Board of Trustees section with group members
 - External CSS for all styling
 - Marquee running across all pages
@@ -26,7 +26,7 @@ our Web Development coursework at Miva University.
 - Modupeoluwa Ariyo – Events Page
 - Kingsley Chinedu Ikeli – Contact Page
 - Kelechi Emmanuel – Contact Page
-- Glory Michael – Collections Assistance
+- Glory Michael – Pictures finding
 - Kelvin Akula – Tag Notes
 
 ## 🛠 Languages Used
@@ -40,5 +40,3 @@ Open `index.html` in any browser.
 
 
 
-## 📁 How to run locally
-1. Clone the repository:
